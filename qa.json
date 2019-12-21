@@ -1,22 +1,43 @@
 [
 
+  {
+
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-8c122be9"
+
+    "ParameterValue": "ami-9c0638f9"
+
   }, 
+
   {
+
     "ParameterKey": "InstanceType",
+
     "ParameterValue": "t2.micro"
+
   },
+
    {
+
     "ParameterKey": "KeyName",
-    "ParameterValue": "Testkey"
+
+    "ParameterValue": "GOPIKRISH"
+
    },
+
   {
+
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-7aa51b36"
+
+    "ParameterValue": "subnet-979b76ed"
+
   },
+
   {
+
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-0d4407d070142ef58"
+
+    "ParameterValue": "sg-495b6323"
+
   }
+
 ]
