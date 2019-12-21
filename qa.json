@@ -20,7 +20,7 @@
 
     "ParameterKey": "KeyName",
 
-    "ParameterValue": "GOPIKRISH"
+    "ParameterValue": "Testkey"
 
    },
 
@@ -28,7 +28,7 @@
 
      "ParameterKey": "SubnetId",
 
-    "ParameterValue": "subnet-979b76ed"
+    "ParameterValue": "subnet-7aa51b36"
 
   },
 
@@ -36,7 +36,7 @@
 
     "ParameterKey": "InstanceSecurityGroup",
 
-    "ParameterValue": "sg-495b6323"
+    "ParameterValue": "sg-0d4407d070142ef58"
 
   }
 
